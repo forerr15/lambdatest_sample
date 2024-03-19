@@ -1,0 +1,5 @@
+node_modules/
+.lambdatest/
+*.log
+package-lock.json
+.DS_STORE
